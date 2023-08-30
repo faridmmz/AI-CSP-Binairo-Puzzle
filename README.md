@@ -2,6 +2,8 @@
 
 This project is one of my favorite and most proud works in my university-related projects and I'm more than happy to present it to you! Hope you enjoy it.
 
+![an image Created with Bing Image Creator](https://github.com/faridmmz/AI-CSP-Binairo-Puzzle/blob/main/README_Image.jpg "Created with Bing Image Creator")
+
 This project involves a program or algorithm that works with a game board represented as a grid. The program performs certain operations on the board and produces output based on the initial board configuration.
 
 ## Table of Contents
